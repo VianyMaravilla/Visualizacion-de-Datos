@@ -1,2 +1,2 @@
-# Visualizaci-n-de-Datos
+# Visualizacion-de-Datos
 Analitica y visualizacion de datos
