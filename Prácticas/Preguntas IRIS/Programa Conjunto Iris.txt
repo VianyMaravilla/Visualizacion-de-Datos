@@ -1,0 +1,10 @@
+Programa en R "Resolución de preguntas para conjuntos de datos iris"
+
+La idea de este programa es que utilicen su imaginación y funciones estadisticas y 
+aritmeticas para responder a las preguntas que aparecen en la presentación 2, con 
+respecto al conjunto de datos de Iris.
+
+Deben descargar el repositorio para llevar a cabo este análisis exploratorio que 
+responda a los cuestionamientos marcados.
+
+

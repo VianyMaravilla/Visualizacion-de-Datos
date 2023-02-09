@@ -1,0 +1,38 @@
+Proyecto 02
+
+Realizar un programa en R que permita calcular la disimilitud con base en la Norma
+Euclídea sobre el conjunto de datos Iris, para las 3 clases de flores que están
+descritas en el conjunto de datos.
+
+Cosas por hacer:
+
+* Calcular el valor de disimilitud con la Norma Euclídea entre las flores:
+Setosa, Versicolor y Virginica, tomando como base la longitud y anchura (área)
+del sépalo y pétalo de cada flor.
+
+* Establecer el umbral de disimilitud entre las 3 clases de flores, con base en
+los valores de área de cada flor.
+
+* Calcular la distancia entre los elementos de la clase
+- Setosa - Versicolor
+- Setosa - Virginica
+- Versicolor - Virginica
+- Versicolor - Setosa
+- Virginica - Setosa
+- Virginica - Versicolor
+
+* Calclar el producto interno entre cada clase de flores 
+- Setosa - Versicolor
+- Setosa - Virginica
+- Versicolor - Virginica
+- Versicolor - Setosa
+- Virginica - Setosa
+- Virginica - Versicolor
+
+* Calcular el producto interno entre
+- Setosa-Versicolor
+- Setosa-Virginica
+- Versicolor-Virginica 
+- Versicolor-Setosa 
+- Virginica-Setosa
+- Virginica-Versicolor

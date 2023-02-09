@@ -1,0 +1,6 @@
+Implementación en Excel, Matlab o SPSS
+
+Simular el ejercicio en case "Distancia de Mahalanobis" en donde se pueden observar
+los cálculos uno a uno para obtener la distancia de Mahalanobis para la matriz
+de datos X que se muestra en la presentación 04 de la clase. Lo único que deben
+hacer es replicar el experimento y obtener uno a uno los cálculos.

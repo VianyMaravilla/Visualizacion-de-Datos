@@ -1,0 +1,12 @@
+Proyecto 03
+
+Programa en R que permita calcular la distancia de Mahalanobis sobre el conjunto de
+datos Iris, para las 3 clases de flores que están descritas en el conjunto de datos
+
+* Cuantificar el valor de la distancia de Mahalanobis entre las flores:
+- Setosa
+- Versicolor
+- Virginica
+Tomando como base la longitud y anchura del sépalo y pétalo de cada flor
+
+* Graficar los valores de las distancias calculadas

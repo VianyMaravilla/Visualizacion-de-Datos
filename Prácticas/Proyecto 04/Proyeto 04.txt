@@ -1,0 +1,10 @@
+Proyecto 04
+
+Considerar los datos económicos de la siguiente tabla (dados en millones de dólares)
+de corporaciones industriales
+
+* Calcular la distancia de Mahalanobis entre Ford y Exxon
+* Calcular la distancia de Mahalanobis entre General Motors e IBM
+* Calcular la distancia de Mahalanobis entre Philip Morris y Texaco
+
+Con el csv
